@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.BookGrid.resources
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.pdb
+C:\Users\hp\source\repos\EntityFramework\obj\Debug\EntityFramework.Migrations.AddingInitialTables.resources
